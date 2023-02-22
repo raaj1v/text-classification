@@ -11,7 +11,7 @@ twenty_train = fetch_20newsgroups(subset='train', shuffle=True)
 # In[4]:
 
 # You can check the target names (categories) and some data files by following commands.
-twenty_train.target_names #prints all the categories
+twenty_tr   ain.target_names #prints all the categories
 
 
 # In[5]:
